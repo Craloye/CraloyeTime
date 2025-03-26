@@ -1,6 +1,4 @@
 #include <stdio.h>
-main()
-{
+main(){
     printf("Craloye");
-    return 0;
-}
+    return 0;}
